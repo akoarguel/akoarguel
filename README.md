@@ -1,4 +1,4 @@
-![akoarguel](banner.png)
+![akoarguel](banner1.png)
 
 ### Hi there 👋
 
