@@ -13,4 +13,6 @@
 - 🍽️ Tengo que compaginar el estudio con el trabajo
 
 ## MI CV
-!(
+<embed src="cv.pdf" type="application/pdf" width="100%" height="600px" />
+
+
