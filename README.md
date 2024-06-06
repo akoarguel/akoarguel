@@ -1,3 +1,5 @@
+![akoarguel](banner.png)
+
 ### Hi there 👋
 
 <!--
