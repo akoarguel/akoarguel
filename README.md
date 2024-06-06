@@ -12,3 +12,5 @@
 - 📎 Quiero poder dedicarme a la **IA** en algún momento
 - 🍽️ Tengo que compaginar el estudio con el trabajo
 
+## MI CV
+!(
