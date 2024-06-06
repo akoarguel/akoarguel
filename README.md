@@ -1,6 +1,6 @@
-# MANEL ARGÜELLES ÁLVAREZ 🧮
-
 ![akoarguel](principal.png)
+
+# MANEL ARGÜELLES ÁLVAREZ 🧮
 
 ## 💻 Estudiante de programación 💻
 
@@ -13,6 +13,6 @@
 - 🍽️ Tengo que compaginar el estudio con el trabajo
 
 ## MI CV
-
+![CV](imageCV.jpg)
 
 
