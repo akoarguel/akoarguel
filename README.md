@@ -14,7 +14,4 @@
 
 
 
-## MI CV
-![CV](imageCV.jpg)
-
 
