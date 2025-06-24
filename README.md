@@ -7,21 +7,21 @@
 ### Algunas cosas sobre mí:
 
 - 🏡 Vivo en Oviedo desde los 17 años, aunque nací en Burgos.
-- 👨‍🎓 Actualmente estudio **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
+- 👨‍🎓 He terminado un grado superior **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
+- 🎨 Disfruto del desarollo backend, de la lógica pura en programación.
 - 📊 Me apasiona la consulta de datos con tecnologías como **SQL**, **MongoDB**, y **Spring**.
-- 🎨 Disfruto del diseño de interfaces y de la lógica pura en programación.
 - 📖 Estoy en constante aprendizaje y me gusta mantenerme al día con las últimas novedades en tecnología.
 
 ### Mis objetivos profesionales:
 
-- 🪐 Mi siguiente paso será especializarme en **desarrollo frontend**.
-- 🤖 Sueño con trabajar en áreas relacionadas con **Inteligencia Artificial**, **Ciberseguridad**, y **Consultoría de Software**.
+- 🪐 Mi siguiente paso será especializarme en **desarrollo backend**.
+- 🤖 Sueño con trabajar en áreas relacionadas con **Inteligencia Artificial** o **Ciberseguridad**.
 - 💻 Quiero dedicarme al desarrollo de software en proyectos que me desafíen técnicamente.
 
 ### Tecnologías y herramientas:
 
-- 🖥️ Tengo un nivel alto en **Java** y **SQL**.
-- 🐍 Estoy aprendiendo **Python**, **Go**, y **Kotlin** mientras finalizo el grado superior.
+- 🖥️ Tengo un nivel alto en **Java**, **Python**, **SQL** y **Kotlin**.
+- 🐍 Estoy aprendiendo **Go**, y **Cobol**. 
 - 💡 Mi IDE favorito es **IntelliJ IDEA** y domino a la perfeción **ECLIPSE**.
 
 ### Más sobre mí:
