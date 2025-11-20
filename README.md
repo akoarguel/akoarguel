@@ -1,30 +1,48 @@
 ![akoarguel](principal.png)
 
-# MANEL ARGÜELLES ÁLVAREZ 🧮
+# >_ Manel Argüelles Álvarez
 
-## 💻 Estudiante de Programación 💻
+```text
++-------------------------------------------------------------+
+|  USUARIO:   Manel Argüelles                                 |
+|  UBICACIÓN: Oviedo, Asturias                                |
+|  ESTADO:    Estudiante & Desarrollador de Software          |
++-------------------------------------------------------------+
 
-### Algunas cosas sobre mí:
+> Hola, mundo.
 
-- 🏡 Vivo en Oviedo desde los 17 años, aunque nací en Burgos.
-- 👨‍🎓 He terminado un grado superior **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
-- 🎨 Disfruto del desarollo backend, de la lógica pura en programación.
-- 📊 Me apasiona la consulta de datos con tecnologías como **SQL**, **MongoDB**, y **Spring**.
-- 📖 Estoy en constante aprendizaje y me gusta mantenerme al día con las últimas novedades en tecnología.
+Soy un Desarrollador de Software enfocado en la evolución tecnológica.
+Tras completar mi formación en Desarrollo de Aplicaciones Multiplataforma (DAM),
+actualmente estoy ampliando mi stack en el IES Doctor Fleming.
 
-### Mis objetivos profesionales:
+[!] OBJETIVO ACTUAL:
+    // Cursando Especialización en Inteligencia Artificial y Big Data.
+    // Transición hacia roles de desarrollo backend y ciencia de datos.
 
-- 🪐 Mi siguiente paso será especializarme en **desarrollo backend**.
-- 🤖 Sueño con trabajar en áreas relacionadas con **Inteligencia Artificial** o **Ciberseguridad**.
-- 💻 Quiero dedicarme al desarrollo de software en proyectos que me desafíen técnicamente.
+class Skills:
+    def __init__(self):
+        self.core = ["Desarrollo Software", "Análisis de Datos"]
+        
+    def lenguajes(self):
+        return {
+            "JAVA":   "[##########] 100% - Core",
+            "PYTHON": "[########..]  80% - Enfocado en IA/ML",
+            "SQL":    "[#########.]  90% - Gestión de BBDD"
+        }
 
-### Tecnologías y herramientas:
+    def librerias_ia(self):
+        # Perfeccionando actualmente
+        return [
+            "Pandas",
+            "Matplotlib",
+            "Scikit-learn"
+        ]
 
-- 🖥️ Tengo un nivel alto en **Java**, **Python**, **SQL** y **Kotlin**.
-- 🐍 Estoy aprendiendo **Go**, y **Cobol**. 
-- 💡 Mi IDE favorito es **IntelliJ IDEA** y domino a la perfeción **ECLIPSE**.
++ Historial: Proyectos académicos y prácticas en DAM.
+! Estado:    Actualmente sin proyectos públicos recientes (Focus: Estudios).
+- Pendiente: Desarrollo de arquitectura compleja post-curso.
 
-### Más sobre mí:
+>> STATUS: OPEN TO WORK (Buscando activamente oportunidades en desarrollo) <<
 
-- 🍽️ Combino mis estudios con el trabajo, lo que me ayuda a gestionar mejor mi tiempo y prioridades.
-- 🌟 Soy curioso por naturaleza y me encanta explorar nuevas tecnologías y tendencias en el mundo del software.
+[ @ ] Email:    manel.arguelles@gmail.com
+[ L } Linkedin: https://www.google.com/search?q=https://www.linkedin.com/in/manel-arg%C3%BCelles-%C3%A1lvarez
