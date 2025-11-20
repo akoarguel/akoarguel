@@ -9,6 +9,8 @@
 |  ESTADO:    Estudiante & Desarrollador de Software          |
 +-------------------------------------------------------------+
 
+```
+
 > Hola, mundo.
 
 Soy un Desarrollador de Software enfocado en la evolución tecnológica.
@@ -45,4 +47,3 @@ class Skills:
 >> STATUS: OPEN TO WORK (Buscando activamente oportunidades en desarrollo) <<
 
 [ @ ] Email:    manel.arguelles@gmail.com
-[ L } Linkedin: https://www.google.com/search?q=https://www.linkedin.com/in/manel-arg%C3%BCelles-%C3%A1lvarez
